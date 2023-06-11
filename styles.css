@@ -1,0 +1,27 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
+
+  * {
+      font-family: 'Poppins';
+      background-color: #13131F;
+  }
+
+  p {
+      color: #828282;
+  }
+
+
+  .title {
+      color: #FFF;
+
+  }
+
+  .incomeText {
+      color: #8257E6;
+  }
+
+  .input {
+      background-color: #828282;
+  }
+  .valueDiv {
+    display: flex;
+  }
